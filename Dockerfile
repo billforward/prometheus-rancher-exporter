@@ -1,4 +1,4 @@
-FROM golang:1.9.7-alpine3.7 as builder
+FROM golang:1.10.8-alpine as builder
 LABEL maintainer="Infinity Works"
 
 
